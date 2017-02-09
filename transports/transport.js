@@ -5,7 +5,7 @@
  * @copyright (c) 2013 Observe.it (http://observe.it) <opensource@observe.it>
  * MIT Licensed
  */
-var EventEmitter = require('events').EventEmitter;
+const EventEmitter = require('events');
 
 /**
  * Strict type checking.
